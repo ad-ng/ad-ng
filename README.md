@@ -1,4 +1,4 @@
-<img align="left" width="400" alt="coding" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"><br>
+
 <h1 align="center">Hi 👋, I'm NGOGA Adolphe</h1>
 <h3 align="center">A passionate backend and DevOps engineer from Rwanda</h3>
 
