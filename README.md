@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm NGOGA Adolphe</h1>
 <h3 align="center">A passionate backend, DevOps and Mobile app developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-ng" alt="ad-ng" /></a> </p>
 
 - 💬 Ask me about **nodejs, flutter, AWS**
 
