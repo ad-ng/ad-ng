@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **nodejs, flutter, AWS**
 
-- 📫 How to reach me **adolphengoga@gmaol.com**
+- 📫 How to reach me **adolphengoga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
